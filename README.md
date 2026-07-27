@@ -1,63 +1,124 @@
-# ahmed82.github.io
+# Ahmed Al Salih
 
-```
-git --no-pager log HEAD -s --format="%ae" -1
-```
+> Software Architect • Researcher • Founder
 
-About
+Building intelligent software, scalable platforms, and engineering organizations that transform research into real-world products.
 
-I believe software engineering is ultimately about enabling
-people and organizations to solve complex problems.
+---
 
-Throughout my career I have focused on building scalable
-enterprise systems, mentoring engineering teams,
-driving architectural modernization,
-and transforming research into production software.
+## About
 
-My experience spans enterprise architecture,
-distributed systems,
-cloud-native platforms,
-artificial intelligence,
-and engineering leadership,
-where technical excellence must align with business objectives.
+I am a Software Architect, researcher, and technology leader with a passion for designing large-scale software systems that solve complex business problems.
 
-Whether designing consensus protocols,
-leading enterprise modernization,
-or founding technology initiatives,
-my goal remains the same:
+My work bridges the gap between academic research and enterprise software engineering, combining distributed systems, cloud architecture, artificial intelligence, cybersecurity, and modern software engineering practices to build practical, production-ready solutions.
 
-Build systems that create long-term value.
-I builds organizations, platforms, and technical strategy—not just software.
-Define engineering strategy, lead teams, mentor architects, and build organizations—not just write code.
-I help organizations modernize legacy platforms, scale engineering capabilities, and transform complex technical challenges into strategic business value.
-Enterprise Software Architect specializing in modernizing large-scale applications, cloud platforms, DevOps automation, and AI transformation.
+Over the course of my career, I have designed enterprise platforms, led engineering modernization initiatives, mentored development teams, and contributed to open-source technologies. My research focuses on Byzantine Fault Tolerant consensus protocols, blockchain infrastructure, and AI-driven software systems.
 
-"I don't just build AI demos. I build AI systems that can run inside real enterprises."
+Beyond enterprise architecture, I founded **Nexoma Labs LLC**, where I develop modern SaaS platforms, AI-powered applications, mobile products, and technical publications focused on the future of software engineering.
 
-**Engineering Principles:**
+---
 
-✔ Simplicity over Complexity
+## Areas of Expertise
 
-✔ Architecture before Technology
+- Enterprise Software Architecture
+- Distributed Systems
+- Cloud-Native Platforms
+- Artificial Intelligence
+- System Design
+- DevSecOps
+- Enterprise Integration
+- API Design
+- Software Modernization
+- Engineering Leadership
+- Blockchain & Distributed Ledger Technologies
+- Consensus Protocols
+- Technical Strategy
+- Product Architecture
 
-✔ Business Value before Features
+---
 
-✔ Reliability by Design
+## Current Initiatives
 
-✔ Continuous Learning
+| Initiative                            | Mission                                                                        |
+| ------------------------------------- | ------------------------------------------------------------------------------ |
+| **Nexoma Labs LLC**                   | Building intelligent software for modern enterprises                           |
+| **Fitly**                             | Helping people build healthier lifestyles through accountability and community |
+| **Nexoma Publishing Framework (NPF)** | Modern AI-assisted technical publishing                                        |
+| **Enterprise AI**                     | Bringing practical AI into enterprise software                                 |
+| **BDLS**                              | Advancing Byzantine Fault Tolerant consensus for Hyperledger Fabric            |
 
-✔ Open Collaboration
+---
 
-✔ Build Once, Scale Forever
+## Open Source
 
-| Initiative                      | Vision                                                               |
-| ------------------------------- | -------------------------------------------------------------------- |
-| **Nexoma Labs**                 | Building intelligent software for the next generation of enterprises |
-| **Fitly**                       | Creating a healthier world through accountability and community      |
-| **Nexoma Publishing Framework** | Modernizing technical publishing with AI-assisted authoring          |
-| **BDLS**                        | Advancing Byzantine Fault Tolerant consensus in Hyperledger Fabric   |
-| **Enterprise AI**               | Bringing practical AI into enterprise software platforms             |
+I actively contribute to open-source software and distributed systems research.
 
-**"Technology is not defined by the software we build, but by the people and organizations it empowers."**
+Current work includes contributing to the integration of the **BDLS Byzantine Fault Tolerant consensus protocol** into **Hyperledger Fabric**, helping bridge academic research with production blockchain infrastructure.
 
-_I believe engineering leadership is about creating environments where innovation can thrive, where research becomes practical, and where technology creates lasting value for society. My mission is to help build that future—one platform, one team, and one idea at a time._
+I welcome researchers, engineers, and contributors interested in distributed systems, consensus algorithms, blockchain infrastructure, and enterprise software.
+
+---
+
+## Engineering Philosophy
+
+I believe great software is built by combining technical excellence with simplicity.
+
+Engineering is not about writing more code.
+
+It is about building systems that are:
+
+- Reliable
+- Scalable
+- Maintainable
+- Secure
+- Valuable to people
+
+Technology should enable organizations to innovate—not become another obstacle.
+
+---
+
+## Research Interests
+
+- Artificial Intelligence
+- Enterprise AI Systems
+- Distributed Systems
+- Consensus Algorithms
+- Cybersecurity
+- Cloud Computing
+- Software Architecture
+- DevSecOps
+- Blockchain
+- IoT
+- Edge Computing
+
+---
+
+## Publications
+
+- IEEE Access
+- IEEE CCGrid
+- IEEE BCCA
+- ACM Hyperledger Workshop
+
+Research profile:
+
+- Google Scholar
+- IEEE Xplore
+- ORCID
+
+---
+
+## Connect
+
+- LinkedIn
+- Google Scholar
+- IEEE Xplore
+- ORCID
+- Credly
+- Nexoma Labs
+
+---
+
+> _"Technology is not defined by the software we build, but by the people and organizations it empowers."_
+
+I believe engineering leadership is about creating environments where innovation can thrive, research becomes practical, and technology creates lasting value for society.
